@@ -1,6 +1,10 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.google.xr.cardboard": "file:C:/Users/Emiliano/Downloads/cardboard-xr-plugin-master",
+=======
+    "com.google.xr.cardboard": "file:../cardboard-xr-plugin-master/cardboard-xr-plugin-master",
+>>>>>>> b411992b72efae69d6aeff3804224b95bfe798f2
     "com.unity.collab-proxy": "2.2.0",
     "com.unity.feature.development": "1.0.1",
     "com.unity.textmeshpro": "3.0.6",
