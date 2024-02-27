@@ -4,7 +4,6 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-<<<<<<< HEAD
   productGUID: 22bd1f124c3712842956b1521378a691
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
@@ -15,18 +14,6 @@ PlayerSettings:
   accelerometerFrequency: 60
   companyName: FI UNAM
   productName: Practica1_Emiliano_Gutierrez
-=======
-  productGUID: 92d465cd9d936a74ea0d13dc759af1bc
-  AndroidProfiler: 0
-  AndroidFilterTouchesWhenObscured: 0
-  AndroidEnableSustainedPerformanceMode: 0
-  defaultScreenOrientation: 2
-  targetDevice: 2
-  useOnDemandResources: 0
-  accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: Practicas_Emiliano_Gutierrezf
->>>>>>> b411992b72efae69d6aeff3804224b95bfe798f2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -71,13 +58,8 @@ PlayerSettings:
   iosShowActivityIndicatorOnLoading: -1
   androidShowActivityIndicatorOnLoading: -1
   iosUseCustomAppBackgroundBehavior: 0
-<<<<<<< HEAD
   allowedAutorotateToPortrait: 0
   allowedAutorotateToPortraitUpsideDown: 0
-=======
-  allowedAutorotateToPortrait: 1
-  allowedAutorotateToPortraitUpsideDown: 1
->>>>>>> b411992b72efae69d6aeff3804224b95bfe798f2
   allowedAutorotateToLandscapeRight: 1
   allowedAutorotateToLandscapeLeft: 1
   useOSAutorotation: 1
@@ -158,12 +140,7 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1
-<<<<<<< HEAD
-  preloadedAssets:
-  - {fileID: -5944685880346663351, guid: ed95e7e4931d5ea4fbaa1cc27cb23c32, type: 2}
-=======
   preloadedAssets: []
->>>>>>> b411992b72efae69d6aeff3804224b95bfe798f2
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -184,11 +161,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-<<<<<<< HEAD
     Android: com.FIUNAM.Practica1_Emiliano_Gutierrez
-=======
-    Android: com.DefaultCompany.Practicas_Emiliano_Gutierrezf
->>>>>>> b411992b72efae69d6aeff3804224b95bfe798f2
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -282,17 +255,10 @@ PlayerSettings:
   useCustomMainGradleTemplate: 1
   useCustomLauncherGradleManifest: 0
   useCustomBaseGradleTemplate: 0
-<<<<<<< HEAD
   useCustomGradlePropertiesTemplate: 1
   useCustomGradleSettingsTemplate: 0
   useCustomProguardFile: 0
   AndroidTargetArchitectures: 2
-=======
-  useCustomGradlePropertiesTemplate: 0
-  useCustomGradleSettingsTemplate: 0
-  useCustomProguardFile: 0
-  AndroidTargetArchitectures: 3
->>>>>>> b411992b72efae69d6aeff3804224b95bfe798f2
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
@@ -318,106 +284,6 @@ PlayerSettings:
   AndroidAppBundleSizeToValidate: 150
   m_BuildTargetIcons: []
   m_BuildTargetPlatformIcons:
-<<<<<<< HEAD
-=======
-  - m_BuildTarget: iPhone
-    m_Icons:
-    - m_Textures: []
-      m_Width: 180
-      m_Height: 180
-      m_Kind: 0
-      m_SubKind: iPhone
-    - m_Textures: []
-      m_Width: 120
-      m_Height: 120
-      m_Kind: 0
-      m_SubKind: iPhone
-    - m_Textures: []
-      m_Width: 167
-      m_Height: 167
-      m_Kind: 0
-      m_SubKind: iPad
-    - m_Textures: []
-      m_Width: 152
-      m_Height: 152
-      m_Kind: 0
-      m_SubKind: iPad
-    - m_Textures: []
-      m_Width: 76
-      m_Height: 76
-      m_Kind: 0
-      m_SubKind: iPad
-    - m_Textures: []
-      m_Width: 120
-      m_Height: 120
-      m_Kind: 3
-      m_SubKind: iPhone
-    - m_Textures: []
-      m_Width: 80
-      m_Height: 80
-      m_Kind: 3
-      m_SubKind: iPhone
-    - m_Textures: []
-      m_Width: 80
-      m_Height: 80
-      m_Kind: 3
-      m_SubKind: iPad
-    - m_Textures: []
-      m_Width: 40
-      m_Height: 40
-      m_Kind: 3
-      m_SubKind: iPad
-    - m_Textures: []
-      m_Width: 87
-      m_Height: 87
-      m_Kind: 1
-      m_SubKind: iPhone
-    - m_Textures: []
-      m_Width: 58
-      m_Height: 58
-      m_Kind: 1
-      m_SubKind: iPhone
-    - m_Textures: []
-      m_Width: 29
-      m_Height: 29
-      m_Kind: 1
-      m_SubKind: iPhone
-    - m_Textures: []
-      m_Width: 58
-      m_Height: 58
-      m_Kind: 1
-      m_SubKind: iPad
-    - m_Textures: []
-      m_Width: 29
-      m_Height: 29
-      m_Kind: 1
-      m_SubKind: iPad
-    - m_Textures: []
-      m_Width: 60
-      m_Height: 60
-      m_Kind: 2
-      m_SubKind: iPhone
-    - m_Textures: []
-      m_Width: 40
-      m_Height: 40
-      m_Kind: 2
-      m_SubKind: iPhone
-    - m_Textures: []
-      m_Width: 40
-      m_Height: 40
-      m_Kind: 2
-      m_SubKind: iPad
-    - m_Textures: []
-      m_Width: 20
-      m_Height: 20
-      m_Kind: 2
-      m_SubKind: iPad
-    - m_Textures: []
-      m_Width: 1024
-      m_Height: 1024
-      m_Kind: 4
-      m_SubKind: App Store
->>>>>>> b411992b72efae69d6aeff3804224b95bfe798f2
   - m_BuildTarget: Android
     m_Icons:
     - m_Textures: []
@@ -904,27 +770,16 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-<<<<<<< HEAD
   metroPackageName: Practica1_Emiliano_Gutierrez
   metroPackageVersion: 
-=======
-  metroPackageName: PracticasEmilianoGutierrezf
-  metroPackageVersion: 1.0.0.0
->>>>>>> b411992b72efae69d6aeff3804224b95bfe798f2
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-<<<<<<< HEAD
   metroApplicationDescription: Practica1_Emiliano_Gutierrez
   wsaImages: {}
   metroTileShortName: 
-=======
-  metroApplicationDescription: Practicas_Emiliano_Gutierrezf
-  wsaImages: {}
-  metroTileShortName: Practicas_Emiliano_Gutierrezf
->>>>>>> b411992b72efae69d6aeff3804224b95bfe798f2
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
