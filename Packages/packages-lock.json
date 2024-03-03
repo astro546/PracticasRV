@@ -1,11 +1,7 @@
 {
   "dependencies": {
     "com.google.xr.cardboard": {
-<<<<<<< HEAD
-      "version": "file:C:/Users/Emiliano/Downloads/cardboard-xr-plugin-master",
-=======
       "version": "file:../cardboard-xr-plugin-master/cardboard-xr-plugin-master",
->>>>>>> b411992b72efae69d6aeff3804224b95bfe798f2
       "depth": 0,
       "source": "local",
       "dependencies": {
